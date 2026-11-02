@@ -1,11 +1,14 @@
 # MNIST_Deep_Learning
 
 **Overview**
+
 This project compares traditional machine learning and deep learning approaches for handwritten digit classification using the MNIST dataset. Models were evaluated based on classification performance and representation-learning capabilities.
 
 
 **Objective**
+
 Compare traditional machine learning and deep learning methods for handwritten digit classification using the MNIST dataset.
+
 
 **Methods**
 
@@ -14,11 +17,13 @@ Compare traditional machine learning and deep learning methods for handwritten d
 - Principal Component Analysis (PCA)
 - Variational Autoencoders (VAEs)
 
+
 **Tools**
 
 - R
 - Keras
 - PyTorch
+
 
 **Results**
 
