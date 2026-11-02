@@ -33,4 +33,5 @@ Compare traditional machine learning and deep learning methods for handwritten d
 - Compared linear and nonlinear feature respresentations
 
 **Status**
+
 Completed
